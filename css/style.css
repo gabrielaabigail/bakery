@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+header{
+	background-color: #fff;
+	border-bottom: 1px solid #eee;
+}
+
+#hero-carousel h5{
+	color:sandybrown;
+}
+
+#hero-carousel h2{
+	font-weight: 700;
+}
+
+#hero-carousel p{
+	padding-top: 2%;
+	padding-left: 17%;
+	padding-right: 17%;
+}
+
+#services h5{
+	font-size: 16px;
+	text-align: center;
+	padding-top: 6%;
+	font-weight: 700;
+}
+
+#services p{
+	text-align: center;
+	padding-bottom: 4%;
+	padding-top: 3%;
+}
+
+#services li{
+	text-align: center;
+	font-size: 40px;
+}
+
+#services h5,p{
+	padding-left: 6%
+}
+
+#services{
+	align-content: center;
+	padding-bottom: 10%
+}
+
+.la-apple-alt{
+	background-color:sandybrown ;
+	border-radius:50%;
+	padding: 20px;
+	color: #FFFFFF;
+}
+
+.la-award{
+	background-color:sandybrown ;
+	border-radius:50%;
+	padding: 20px;
+	color: #FFFFFF;
+}
+
+.la-carrot{
+	background-color:sandybrown ;
+	border-radius:50%;
+	padding: 20px;
+	color: #FFFFFF;
+}
+
+.la-handshake{
+	background-color:sandybrown ;
+	border-radius:50%;
+	padding: 20px;
+	color: #FFFFFF;
+}
+
+#counter{
+	background-color: #ecb87d;
+	padding-bottom: 7%;
+	padding-top: 7%;
+	align-content: center;
+	color: #fff;
+	text-align: center;
+}
+
+#counter h2{
+	font-weight: 500;
+	font-size: 35px;
+}
+
+footer{
+	text-align: center;
+	background-image: url("../img/footer-bg.jpg");
+	background-size: cover;
+	padding-bottom: 7%;
+	align-content: center;
+}
+
+footer li{
+	padding-top: 6%;
+	font-size: 20px;
+}
+
+footer img{
+	padding-top: 3%;
+	padding-bottom: 3%;
+	align-content:  center;
+}
+
+footer p{
+	color: #fff;
+	text-align: center;
+	padding-right: 5%
+}
+
+footer li:hover{
+	opacity: 50%;
+}
+
+.la-facebook-f {
+	background-color: #000001;
+	border-radius:50%;
+	padding: 20px;
+	color: #FFFFFF;
+}
+
+.la-instagram {
+	background-color: #000001;
+	border-radius:50%;
+	padding: 20px;
+	color: #FFFFFF;
+}
+
+.la-twitter {
+	background-color: #000001;
+	border-radius:50%;
+	padding: 20px;
+	color: #FFFFFF;
+}
+
+.la-map{
+	background-color: #000001;
+	border-radius:50%;
+	padding: 20px;
+	color: #FFFFFF;
+}
+
+.la-envelope{
+	background-color: #000001;
+	border-radius:50%;
+	padding: 20px;
+	color: #FFFFFF;
+}
